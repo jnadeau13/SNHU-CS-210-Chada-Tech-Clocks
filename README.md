@@ -1,4 +1,4 @@
-# SNHU-CS-210-Chada-Tech-Clocks
+# SNHU-CS-210-Clocks
 
 # Scenario:
 
